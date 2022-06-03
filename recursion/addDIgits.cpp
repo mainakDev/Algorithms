@@ -1,5 +1,5 @@
 /*
-PROBLEM DESCRIPTION
+Program to add the sum of the digits of a number
 */
 #include<bits/stdc++.h>
 using namespace std;
